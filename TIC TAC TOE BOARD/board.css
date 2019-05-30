@@ -1,0 +1,34 @@
+h1
+{
+  text-align: center;
+}
+h1:hover
+{
+  color: teal;
+}
+table
+{
+  margin: auto;
+}
+td
+{
+  width: 100px;
+  height: 100px;
+}
+
+td:hover
+{
+  border: 1px solid grey;
+}
+
+.verticalcolumn
+{
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.horizontalrow
+{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}

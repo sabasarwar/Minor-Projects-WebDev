@@ -1,0 +1,29 @@
+/*FOR GOOGLE FONTS USED
+Specify in CSS
+Use the following CSS rules to specify these families:
+
+font-family: 'ZCOOL KuaiLe', cursive;
+font-family: 'Slabo 27px', serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Courgette', cursive;*/
+
+img
+{
+  width: 30%;
+  float:left;
+  margin: 1.66%;
+}
+
+p
+{
+  font-family: 'PT Sans Narrow', sans-serif;
+  margin-left: 1.66%;
+  font-size: 23px;
+  font-weight: 800;
+  text-transform: uppercase;
+  border-bottom: 2px solid #f1f1f1;
+  width: 30%;
+  padding-bottom: 20px;
+}
